@@ -2,7 +2,7 @@
 file: PrimoCeck.cpp
 autore: Alessandro Gorassini 168518
 date: 09/10/2025
-descr: Programma che chiede un numero intero e verifica se è primo o no.
+descr: Programma che chiede un numero intero e crea una piramide con i numeri con numero più grande quello inserito
 ------------------------------------*/
 
 #include <iostream> 

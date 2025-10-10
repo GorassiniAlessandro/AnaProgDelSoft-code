@@ -35,6 +35,19 @@ g++ PiramideNumeri.cpp -o Piramide
 12321
 ```
 
+### 3. DataPrec.cpp
+**Descrizione:** Programma che riceve una data e calcola la data precedente.
+
+**Come compilare e eseguire:**
+```bash
+g++ DataPrec.cpp -o DataPrec
+./DataPrec
+```
+
+**Esempio di utilizzo:**
+- Input: 15 10 2023
+- Output: 14/10/2023
+
 ## Autore
 Alessandro Gorassini (168518)
 
