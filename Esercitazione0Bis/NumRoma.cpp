@@ -1,3 +1,10 @@
+/*----------------------------------
+file: NumRoma.cpp
+autore: Alessandro Gorassini 168518
+date: 21/10/2025
+descr: Program to convert Roman numerals to integers, including a helper function for character values and a main function for user input.
+------------------------------------*/
+
 #include <iostream>
 #include <string>
 

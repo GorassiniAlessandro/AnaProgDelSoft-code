@@ -1,3 +1,10 @@
+/*----------------------------------
+file: ContoCorrente.cpp
+autore: Alessandro Gorassini 168518
+date: 28/10/2025
+descr: Implementation of the ContoCorrente class methods for bank account management, including deposit, withdrawal, interest calculation, and balance operations.
+------------------------------------*/
+
 #include "ContoCorrente.hpp"
 
 using namespace std;

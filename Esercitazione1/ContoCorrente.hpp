@@ -1,3 +1,10 @@
+/*----------------------------------
+file: ContoCorrente.hpp
+autore: Alessandro Gorassini 168518
+date: 28/10/2025
+descr: Header file for the ContoCorrente class, defining a bank account class with methods for managing balance, interest rate, deposits, withdrawals, and balance conversion to lire.
+------------------------------------*/
+
 #ifndef CONTOCORRENTE_HPP
 #define CONTOCORRENTE_HPP
 

@@ -1,7 +1,7 @@
 /*----------------------------------
 file: NumPerfetto.cpp
 autore: Alessandro Gorassini 168518
-date: 10/10/2025
+date: 21/10/2025
 descr: Programma che verifica se un numero è perfetto e stampa i numeri perfetti tra 1 e 10000.
 ------------------------------------*/
 #include <iostream>

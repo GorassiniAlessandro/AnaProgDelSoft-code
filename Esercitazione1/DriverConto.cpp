@@ -1,3 +1,10 @@
+/*----------------------------------
+file: DriverConto.cpp
+autore: Alessandro Gorassini 168518
+date: 28/10/2025
+descr: Driver program to test the ContoCorrente class, demonstrating initialization, deposits, withdrawals, interest calculations, and various edge cases.
+------------------------------------*/
+
 #include <iostream>
 #include "ContoCorrente.hpp"
 
