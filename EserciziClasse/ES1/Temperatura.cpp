@@ -1,0 +1,7 @@
+/*----------------------------------
+file: Temperatura.cpp
+autore: Alessandro Gorassini 168518
+date: 13/11/2025
+descr:
+------------------------------------*/
+
