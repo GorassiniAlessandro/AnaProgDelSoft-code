@@ -1,0 +1,8 @@
+NOTE IMPORTANTI
+
+- Le classi Orario e Persona sono assunte gia disponibili nel tuo progetto.
+- Orario deve supportare operatori: <, ==, -, e output su stream.
+- Persona deve supportare: Codice() e operator<<.
+- L'operatore Orario - Orario e' assunto restituire i secondi di differenza.
+
+Se non hai Orario.hpp e Persona.hpp nel tuo progetto, crea degli stub minimi per testare.
